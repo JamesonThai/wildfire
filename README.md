@@ -4,6 +4,7 @@
   1. Predict statistical causes of wildfires in the United States of America. [x]
   2. Conduct EDA of dataset. [x]
   3. Compare and evaluate different prediction models. [x]
+  4. Find prediction values at various sample sizes. []
   
 ## Introduction
   This dataset is a spatial database of historical wildfires in the United States from 1992 to 2015. The dataset is generated to support the Fire Program Analysis (FPA) system. In using this I aim to see if I can predict the statistical causes of wildfires? Moreover I also conduct Exploratory Data Analysis (EDA) to discover and observe frequencies of fires as their locations. 
@@ -26,25 +27,34 @@
 
 ## Graphs
   -- IN Progress --
-### U.S.A. County Fries
+### U.S.A. County Fires
+  These graphs look at the number of reported county fires from 1992 to 2015. 
+  
   ![](readme_imgs/counties_fires.gif)
-   - This animated graph displays the number of reported county fires from 1992 to 2015 by year. 
+   - This animated graph displays the number of reported county fires from 1992 to 2015 by year. The information is broken down by state and further broken down by the counties for every year.
   
   ![](readme_imgs/second_analysis.png)
    - This second graphs displays the total number of reported county fires from 1992 to 2015. 
    
 ### U.S.A. Wildfires by State
+
   ![](readme_imgs/wildfires_all.png)
+    - From 1992 to 2015, California has the highest number of reported wildfires followed by Georgia and Texas. This includes both causes known and unknown. 
   
 ### Statistical Causes of Fires
   ![](readme_imgs/5th_analysis.png)
+    - A colorful chart however it is pretty interesting to look up the makeup of reported fires causes by year. Each color scheme represents the statistical cause and all of these are stacked up to represent the total number of reported fires with a statistical cause. 
   
 ### Acres burned
   ![](readme_imgs/acres_burned.gif)
+    - Another animated chart however it visualizes how many acres were burned per year by each statistical cause. As the graph constantly shifts, so does the number of acres by each fire. 
   
 ### Correlations between predicted variables
   ![](readme_imgs/correlations.png)
-    - Correlations between predicted variables
+    - Correlations between prediction variables, this information is used for the random forest tree. 
+
+### Feature Importance
+  - In Progress => Grabbing images...
   
 ## Conclusion
   We can predict wildfires with around 60% accuracy across the 13 statistical causes. If we reduce the number of classification categories to natural, human, and other causes we can achieve around 81% accuracy! Ultimately fires in the United States are having an upward trend and are seemily becoming more frequent in states like California, North Carolina, and Arizona.
