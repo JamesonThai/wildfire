@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Goals](#Goals)
 2. [Introduction](#Introduction)
-3. [Running the Notebook](#Running The Notebook)
+3. [Notebook](#Notebook)
 4. [Prediction](#Prediction)
 5. [Graphs](#Graphs)
 6. [Conclusion](#Conclusion)
@@ -23,7 +23,7 @@
     Short, Karen C. 2017. Spatial wildfire occurrence data for the United States, 1992-2015 [FPAFOD20170508]. 4th Edition. Fort Collins, CO: Forest Service Research    
     Data Archive. https://doi.org/10.2737/RDS-2013-0009.4
   
-## Running the Notebook
+## Notebook
   You can download and run the notebook as it. Some of the required packages include plotly, json, pandas, sqlite3, scikit-learn, xgboost, random forests, and numpy.  
 
 ## Prediction
