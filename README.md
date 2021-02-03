@@ -19,13 +19,13 @@
 
 ## Prediction
   The results are as follows, because the file size for the notebook is limited, I moved some of the other models to a different section which will be uploaded.
-  | | Random Forests | XGBoost |
-  |--|--|--|
-  | 13 categories | 59% | 60% | 
-  | 3 categories | n/a | 81% | 
+  | | Random Forests | XGBoost | Logistic Regression | SVM 
+  |--|--|--|-- |-- |
+  | 13 categories | 59% | 60% | | |
+  | 3 categories | n/a | 81% | | |
 
 ## Graphs and Analysis
-   -- IN Progress of being recorded for markdown -- 
+   -- In Progress of being recorded for markdown -- 
    
 ## Conclusion
   We can predict wildfires with around 60% accuracy across the 13 statistical causes. If we reduce the number of classification categories to natural, human, and other causes we can achieve around 81% accuracy! Ultimately fires in the United States are having an upward trend and are seemily becoming more frequent in states like California, North Carolina, and Arizona.
