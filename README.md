@@ -26,6 +26,8 @@
 
 ## Graphs and Analysis
    -- In Progress of being recorded for markdown -- 
+   
+  ![](readme_imgs/counties_fires.gif)
   
 ## Conclusion
   We can predict wildfires with around 60% accuracy across the 13 statistical causes. If we reduce the number of classification categories to natural, human, and other causes we can achieve around 81% accuracy! Ultimately fires in the United States are having an upward trend and are seemily becoming more frequent in states like California, North Carolina, and Arizona.
