@@ -9,6 +9,7 @@
   This dataset is a spatial database of historical wildfires in the United States from 1992 to 2015. The dataset is generated to support the Fire Program Analysis (FPA) system. In using this I aim to see if I can predict the statistical causes of wildfires? Moreover I also conduct Exploratory Data Analysis (EDA) to discover and observe frequencies of fires as their locations. 
   
   Kaggle Link: https://www.kaggle.com/rtatman/188-million-us-wildfires
+  
   Citation: 
     Short, Karen C. 2017. Spatial wildfire occurrence data for the United States, 1992-2015 [FPAFOD20170508]. 4th Edition. Fort Collins, CO: Forest Service Research    
     Data Archive. https://doi.org/10.2737/RDS-2013-0009.4
