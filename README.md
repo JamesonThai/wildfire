@@ -27,19 +27,22 @@
 ## Graphs
   -- IN Progress --
 ### U.S.A. County Fries
-
   ![](readme_imgs/counties_fires.gif)
    - This animated graph displays the number of reported county fires from 1992 to 2015 by year. 
+  
   ![](readme_imgs/second_analysis.png)
    - This second graphs displays the total number of reported county fires from 1992 to 2015. 
    
 ### U.S.A. Wildfires by State
   ![](readme_imgs/wildfires_all.png)
   
-  ![](readme_imgs/5th_analysis.png)   
+### Statistical Causes of Fires
+  ![](readme_imgs/5th_analysis.png)
   
+### Acres burned
   ![](readme_imgs/acres_burned.gif)
   
+### Correlations between predicted variables
   ![](readme_imgs/correlations.png)
     - Correlations between predicted variables
   
