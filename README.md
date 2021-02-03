@@ -1,5 +1,13 @@
 # Predicting Statistical Causes of Wildfires
 
+## Table of Contents
+1. [Goals](#Goals)
+2. [Introduction](#Introduction)
+3. [Running the Notebook](#Running The Notebook)
+4. [Prediction](#Prediction)
+5. [Graphs](#Graphs)
+6. [Conclusion](#Conclusion)
+
 ## Goals
   1. Predict statistical causes of wildfires in the United States of America. [x]
   2. Conduct EDA of dataset. [x]
