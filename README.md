@@ -25,7 +25,8 @@
   | 3 categories | n/a | 81% | | |
 
 ## Graphs and Analysis
-   -- In Progress of being recorded for markdown -- 
+  ![](readme_imgs/counties_fires.gif)
+    
   ![](readme_imgs/wildfires_all.png)
   
   ![](readme_imgs/second_analysis.png)
@@ -33,10 +34,6 @@
   ![](readme_imgs/3rd analysis.png)
   
   ![](readme_imgs/5th_analysis.png)   
-  
-  ![](readme_imgs/counties_fires.gif)
-  
-  ![](readme_imgs/wildfires_all.png)
   
   ![](readme_imgs/acres_burned.gif)
   
