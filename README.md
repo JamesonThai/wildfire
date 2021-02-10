@@ -32,6 +32,8 @@
   |--|--|--|-- |-- |
   | 13 categories | 59% | 60% | | |
   | 3 categories | n/a | 81% | | |
+  
+  - Specifically for the 3 categories in Random Forests, it crashed. Currently trying to find a workaround.
 
 ## Graphs
   -- IN Progress --
