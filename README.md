@@ -30,8 +30,8 @@
   The results are as follows, because the file size for the notebook is limited, I moved some of the other models to a different section which will be uploaded.
   | | Random Forests | XGBoost | Logistic Regression | SVM 
   |--|--|--|-- |-- |
-  | 13 categories | 59% | 60% | | |
-  | 3 categories | n/a | 81% | | |
+  | 13 categories | 59% | 60% | | 27%|
+  | 3 categories | 80% | 81% | | 55%|
   
   - Specifically for the 3 categories in Random Forests, it crashed. Currently trying to find a workaround.
 
