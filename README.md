@@ -75,13 +75,13 @@
 ### Feature Importance
 
   #### Random Forests
-  ![](readme_imgs/rf-comparison.png)
+  ![](readme_imgs/rf_comparison.png)
   
   #### Logistic Regression
   ![](readme_imgs/log_comparison.png)
   
   #### XGBoost 
-  ![](readme_imgs/xgbst-comparison.png)
+  ![](readme_imgs/xgbst_comparison.png)
   
   #### SVM
   - Will be uploaded... file got corrupted >.>
