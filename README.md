@@ -22,6 +22,9 @@
   
   Citation: 
     Short, Karen C. 2017. Spatial wildfire occurrence data for the United States, 1992-2015 [FPAFOD20170508]. 4th Edition. Fort Collins, CO: Forest Service Research Data Archive. https://doi.org/10.2737/RDS-2013-0009.4
+    
+  If you don't want to view multiple links you can just check out my [Portfolio Website](https://jamesonthai.github.io/portfolio/predicting_wildfires/). It will have everything migrated onto there and you can see [other projects] (https://jamesonthai.github.io/portfolio/predicting_wildfires/) I've tackled as well! 
+  
   
 ## Notebook
   You can download and run the notebook as it. Some of the required packages include plotly, json, pandas, sqlite3, scikit-learn, xgboost, random forests, and numpy.  
@@ -72,7 +75,11 @@
 
 ### Feature Importance
 
-  - In Progress => Grabbing images...
+  ![](readme_imgs/rf-comparison.png)
+  ![](readme_imgs/log_comparison.png)
+  ![](readme_imgs/xgbst-comparison.png)
+  
+  - Although they are hard to read, you can definitely read them all on my website for a more detailed analysis! SVM will be uploaded in a bit, the file got corrupted >.>
   
 ## Conclusion
   We can predict wildfires with around 60% accuracy across the 13 statistical causes. If we reduce the number of classification categories to natural, human, and other causes we can achieve around 81% accuracy! Ultimately fires in the United States are having an upward trend and are seemily becoming more frequent in states like California, North Carolina, and Arizona.
