@@ -25,6 +25,8 @@
     
   If you don't want to view multiple links you can just check out my [Portfolio Website](https://jamesonthai.github.io/portfolio/predicting_wildfires/). It will have everything migrated onto there and you can see [other projects] (https://jamesonthai.github.io/portfolio/predicting_wildfires/) I've tackled as well! 
   
+    [Other Projects] (https://jamesonthai.github.io/portfolio/predicting_wildfires/)
+  
   
 ## Notebook
   You can download and run the notebook as it. Some of the required packages include plotly, json, pandas, sqlite3, scikit-learn, xgboost, random forests, and numpy.  
