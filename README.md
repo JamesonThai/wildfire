@@ -23,10 +23,7 @@
   Citation: 
     Short, Karen C. 2017. Spatial wildfire occurrence data for the United States, 1992-2015 [FPAFOD20170508]. 4th Edition. Fort Collins, CO: Forest Service Research Data Archive. https://doi.org/10.2737/RDS-2013-0009.4
     
-  If you don't want to view multiple links you can just check out my [Portfolio Website](https://jamesonthai.github.io/portfolio/predicting_wildfires/). It will have everything migrated onto there and you can see [other projects] (https://jamesonthai.github.io/portfolio/predicting_wildfires/) I've tackled as well! 
-  
-    [Other Projects] (https://jamesonthai.github.io/portfolio/predicting_wildfires/)
-  
+  If you don't want to view multiple links you can just check out my [Portfolio Website.](https://jamesonthai.github.io/portfolio/predicting_wildfires/) It will have everything migrated onto there and you can see [other projects](https://jamesonthai.github.io/portfolio/predicting_wildfires/) I've tackled as well! 
   
 ## Notebook
   You can download and run the notebook as it. Some of the required packages include plotly, json, pandas, sqlite3, scikit-learn, xgboost, random forests, and numpy.  
