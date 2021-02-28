@@ -74,11 +74,19 @@
 
 ### Feature Importance
 
+  #### Random Forests
   ![](readme_imgs/rf-comparison.png)
+  
+  #### Logistic Regression
   ![](readme_imgs/log_comparison.png)
+  
+  #### XGBoost 
   ![](readme_imgs/xgbst-comparison.png)
   
-  - Although they are hard to read, you can definitely read them all on my website for a more detailed analysis! SVM will be uploaded in a bit, the file got corrupted >.>
+  #### SVM
+  - Will be uploaded... file got corrupted >.>
+  
+  - Although they are hard to read, you can definitely read them all on my website for a more detailed analysis!
   
 ## Conclusion
   We can predict wildfires with around 60% accuracy across the 13 statistical causes. If we reduce the number of classification categories to natural, human, and other causes we can achieve around 81% accuracy! Ultimately fires in the United States are having an upward trend and are seemily becoming more frequent in states like California, North Carolina, and Arizona.
