@@ -38,7 +38,7 @@
   - Specifically for the 3 categories in Random Forests, it crashed. Currently trying to find a workaround.
 
 ## Graphs
-  -- IN Progress --
+
 ### U.S.A. County Fires
   These graphs look at the number of reported county fires from 1992 to 2015. 
   
@@ -79,6 +79,8 @@
   
   #### Logistic Regression
   ![](readme_imgs/log_comparison.png)
+  
+  - There's a mistake in this graph, stastical causes is not meant to be a column in this graph and I will replace it.
   
   #### XGBoost 
   ![](readme_imgs/xgbst_comparison.png)
